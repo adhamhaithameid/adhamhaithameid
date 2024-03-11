@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **adhamhaithameid@gmail.com**
 
-- ⚡ Fun fact *** There are over 700 programming languages, that's more than the number of spoken languages in the world!**
+- ⚡ Fun fact **There are over 700 programming languages, that's more than the number of spoken languages in the world!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
