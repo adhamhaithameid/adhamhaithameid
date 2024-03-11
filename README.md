@@ -20,10 +20,8 @@
 <a href="https://instagram.com/adham_haysam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adham_haysam" height="30" width="40" /></a>
 <a href="https://www.behance.net/adhamhaithameid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="adhamhaithameid" height="30" width="40" /></a>
 <a href="https://medium.com/@adhamhaithameid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adhamhaithameid" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@adhamhaithameid9813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adhamhaithameid9813" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/adhamhaithameid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="adhamhaithameid" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/adhamhaithameid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adhamhaithameid" height="30" width="40" /></a>
-<a href="https://discord.gg/Adhom#0364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Adhom#0364" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
