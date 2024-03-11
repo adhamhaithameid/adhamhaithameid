@@ -1,13 +1,35 @@
-👋 Hello world! I'm Adham,
-a passionate software engineering enthusiast diving into the world of front-end development, with a focus on building cross-platform mobile applications using Flutter.
+<h1 align="center">Hi 👋, I'm Adham Haitham Eid</h1>
+<h3 align="center">a passionate Software Engineering Student</h3>
 
-🚀 Aspiring Software Engineer | Front-end Developer | Flutter Enthusiast
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adhamhaithameid&label=Profile%20views&color=0e75b6&style=flat" alt="adhamhaithameid" /> </p>
 
-💻 Currently, I'm immersing myself in Flutter development, leveraging its powerful framework to create beautiful and performant mobile apps. From UI design to state management, I'm fascinated by the versatility and efficiency that Flutter offers.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adhamhaithameid" alt="adhamhaithameid" /></a> </p>
 
-🌱 I thrive on continuous learning and experimentation. Every Flutter project I embark on is an opportunity to explore new widgets, improve performance, and refine my app architecture skills. I'm dedicated to staying updated with the latest Flutter trends and best practices to deliver top-notch mobile experiences.
+- 🔭 I’m currently working on **FLutter**
 
-🔧 When I'm not coding, you can find me exploring the Flutter community, attending meetups, and collaborating on open-source projects. I'm passionate about leveraging technology to solve real-world problems and excited to contribute to the growing ecosystem of Flutter.
+- 🌱 I’m currently learning **Web Development & Mobile Development**
 
-📫 Let's connect! Whether you're interested in Flutter development, want to brainstorm project ideas, or simply geek out about mobile app design, feel free to reach out. Together, let's push the boundaries of mobile development and build innovative solutions that make a difference.
+- 💬 Ask me about **Flutter & Python**
 
+- 📫 How to reach me **adhamhaithameid@gmail.com**
+
+- ⚡ Fun fact *** There are over 700 programming languages, that's more than the number of spoken languages in the world!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/adhamhaithameid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adhamhaithameid" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adhamhaithameid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adhamhaithameid" height="30" width="40" /></a>
+<a href="https://fb.com/elshab.adham.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elshab.adham.7" height="30" width="40" /></a>
+<a href="https://instagram.com/adham_haysam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adham_haysam" height="30" width="40" /></a>
+<a href="https://www.behance.net/adhamhaithameid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="adhamhaithameid" height="30" width="40" /></a>
+<a href="https://medium.com/@adhamhaithameid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adhamhaithameid" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/adhamhaithameid9813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adhamhaithameid9813" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/adhamhaithameid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="adhamhaithameid" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/adhamhaithameid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adhamhaithameid" height="30" width="40" /></a>
+<a href="https://discord.gg/Adhom#0364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Adhom#0364" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adhamhaithameid&" alt="adhamhaithameid" /></p>
