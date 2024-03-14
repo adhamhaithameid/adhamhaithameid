@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adham Haitham Eid</h1>
-<h3 align="center">a passionate Software Engineering Student @ E-JUST</h3>
+<h3 align="center">a passionate Software Engineering Student @E-JUST</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/MvMxQ1a.gif">
 
 - 🔭 I’m currently working on **FLutter**
