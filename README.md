@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Adham Haitham Eid</h1>
-<h3 align="center">a passionate Software Engineering Student @E-JUST</h3>
+<h1 align="center">
+  Hi 👋, I'm Adham Haitham Eid
+</h1>
+<h3 align="center">
+  a passionate Software Engineering Student @E-JUST
+</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/MvMxQ1a.gif">
 
 - 🔭 I’m currently working on **FLutter**
@@ -12,7 +16,9 @@
 
 - ⚡ Fun fact **Coffee is practically a compiler beverage.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">
+  Connect with me:
+</h3>
 <p align="left">
 <a href="https://twitter.com/adhamhaithameid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adhamhaithameid" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adhamhaithameid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adhamhaithameid" height="30" width="40" /></a>
