@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Flutter & Python**
 
-- 📫 How to reach me **adhamhaithameid@gmail.com**
+- 📫 Don't Hesitate to reach me **adhamhaithameid@gmail.com**
 
 - ⚡ Fun fact **Coffee is practically a compiler beverage.**
 
