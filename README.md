@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Adham Haitham
+  Hi 👋, I'm Adham
 </h1>
 <h3 align="center">
   a passionate Software Engineering Student @E-JUST
