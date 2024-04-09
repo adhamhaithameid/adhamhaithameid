@@ -6,11 +6,11 @@
 </h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/MvMxQ1a.gif">
 
-- 🔭 I’m currently working on **FLutter**
+- 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **Web Development & Mobile Development**
+- 🌱 I’m currently learning **Mobile Development**
 
-- 💬 Ask me about **Flutter & Python**
+- 💬 Ask me about **Flutter & Dart**
 
 - 📫 Don't Hesitate to reach me **adhamhaithameid@gmail.com**
 
