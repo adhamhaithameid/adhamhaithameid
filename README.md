@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **JavaScript**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Computer Organization**
 
-- 💬 Ask me about **CSS & JavaScript**
+- 💬 Ask me about **UI & FrontEnd dev**
 
 - 📫 Don't Hesitate to reach me **adhamhaithameid@gmail.com**
 
