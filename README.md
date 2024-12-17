@@ -14,6 +14,8 @@
 
 - 📫 Don't Hesitate to reach me **adhamhaithameid@gmail.com**
 
+- 🏫 I’m currently enrolled in **E-JUST**
+
 - ⚡ Fun fact **Coffee is practically a compiler beverage.**
 
 <h3 align="left">
