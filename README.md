@@ -5,7 +5,7 @@
   a passionate Software Engineering Student @E-JUST
 </h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/MvMxQ1a.gif">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adhamhaithameid&label=Profile%20views&color=0e75b6&style=flat" alt="adhamhaithameid" /> </p>
 - 🔭 I’m currently working on **JavaScript**
 
 - 🌱 I’m currently learning **Computer Organization**
@@ -17,6 +17,12 @@
 - 🏫 I’m currently enrolled in **E-JUST**
 
 - ⚡ Fun fact **Coffee is practically a compiler beverage.**
+  
+- 🆕 Latest Project [https://github.com/developers-together/Platform-IO]
+  
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Dl5erZBc2yLMCbR76Iubh0_9cXYkcMeS/view?usp=drive_link](https://drive.google.com/file/d/1Dl5erZBc2yLMCbR76Iubh0_9cXYkcMeS/view?usp=drive_link)
+ 
+  
 
 <h3 align="left">
   Connect with me:
@@ -50,3 +56,7 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhamhaithameid&show_icons=true&locale=en&layout=compact" alt="adhamhaithameid" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adhamhaithameid&show_icons=true&locale=en" alt="adhamhaithameid" /></p>
