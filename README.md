@@ -10,21 +10,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhamhaithameid&label=Profile%20views&color=0e75b6&style=flat" alt="adhamhaithameid" /> </p>
 
-- 🔭 I’m currently working on **2D - Pixel Art for Game Design**
+- 🔭  I’m currently working on **2D - Pixel Art for Game Design**
 
-- 🌱 I’m currently learning **Operating Systems**
+- 🌱  I’m currently learning **Operating Systems**
 
-- 💬 Ask me about **UI & FrontEnd dev**
+- 💬  Ask me about **UI & FrontEnd dev**
 
-- 📫 Don't Hesitate to reach me **adhamhaithameid@gmail.com**
+- 📫  Don't Hesitate to reach me **adhamhaithameid@gmail.com**
 
-- 🏫 I’m currently enrolled in **E-JUST**
+- 🏫  I’m currently enrolled in **E-JUST**
 
-- ⚡ Fun fact **Coffee is practically a compiler beverage.**
+- ⚡  Fun fact **Coffee** is practically a compiler beverage.
   
-- 🆕 Latest Project [https://github.com/developers-together/Balancebreaker]
+- 🆕  Latest Project: [Balancebreaker](https://github.com/developers-together/Balancebreaker)
   
-- 📄 Know about my experiences [Through My Resume](https://drive.google.com/file/d/1Dl5erZBc2yLMCbR76Iubh0_9cXYkcMeS/view?usp=drive_link)
+- 📄  Know about my experiences [Through My Resume](https://drive.google.com/file/d/1Dl5erZBc2yLMCbR76Iubh0_9cXYkcMeS/view?usp=drive_link)
  
   
 
