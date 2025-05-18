@@ -10,19 +10,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhamhaithameid&label=Profile%20views&color=0e75b6&style=flat" alt="adhamhaithameid" /> </p>
 
-- 🔭  I’m currently working on **2D - Pixel Art for Game Design**
+- 🔭  I’m currently working on **GSAP Animations / Reactjs**
 
 - 🌱  I’m currently learning **Operating Systems**
 
-- 💬  Ask me about **UI & FrontEnd dev**
+- 💬  Ask me about **UI & Front-End dev**
 
 - 📫  Don't Hesitate to reach me **adhamhaithameid@gmail.com**
 
-- 🏫  I’m currently enrolled in **E-JUST**
+- 🏫  I’m currently enrolled in **<abbr title="Egypt Japan University of Science and Technologfy">EJUST</abbr>**
 
 - ⚡  Fun fact **Coffee** is practically a compiler beverage.
   
-- 🆕  Latest Project: [Balancebreaker](https://github.com/developers-together/Balancebreaker)
+- 🆕  Latest Project: [Spotify Clone](https://github.com/adhamhaithameid/Spotify-clone)
   
 - 📄  Know about my experiences [Through My Resume](https://drive.google.com/file/d/1Dl5erZBc2yLMCbR76Iubh0_9cXYkcMeS/view?usp=drive_link)
  
