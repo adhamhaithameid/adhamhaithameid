@@ -14,7 +14,7 @@
 
 - 🌱  I’m currently learning **Operating Systems**
 
-- 💬  Ask me about **UI & Front-End dev**
+- 💬  Ask me about **Front-End dev & UI**
 
 - 📫  Don't Hesitate to reach me **adhamhaithameid@gmail.com**
 
@@ -22,7 +22,7 @@
 
 - ⚡  Fun fact **Coffee** is practically a compiler beverage.
   
-- 🆕  Latest Project: [Spotify Clone](https://github.com/adhamhaithameid/Spotify-clone)
+- 🆕  Latest Project: [Airpods Max](https://github.com/adhamhaithameid/airpods-max)
   
 - 📄  Know about my experiences [Through My Resume](https://drive.google.com/file/d/1Dl5erZBc2yLMCbR76Iubh0_9cXYkcMeS/view?usp=drive_link)
  
