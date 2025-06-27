@@ -1,3 +1,4 @@
+<!--- Headers --->
 <h1 align="center">
   Hi 👋, I'm Adham
 </h1>
@@ -5,22 +6,31 @@
   a passionate Software Engineering Student @E-JUST
 </h3>
 
-<!--- <img align="right" alt="Coding" width="400" src="https://i.imgur.com/MvMxQ1a.gif"> --->
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/psQzFHIko4MAAAAd/study-anime.gif">
 
+
+<!--- GIFs --->
+ <img align="right" alt="Coding" width="400" src="https://i.imgur.com/MvMxQ1a.gif">
+<!--- <img align="right" alt="Planning" width="400" src="https://media.tenor.com/psQzFHIko4MAAAAd/study-anime.gif"> --->
+
+
+
+<!--- Profile Views Counter --->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhamhaithameid&label=Profile%20views&color=0e75b6&style=flat" alt="adhamhaithameid" /> </p>
 
-- 🔭  I’m currently working on **GSAP Animations / Reactjs**
 
-- 🌱  I’m currently learning **Operating Systems**
+
+<!--- Points --->
+- 🔭  I’m currently working on **Problem Solving**
+
+- 🌱  I’m currently learning **Data Structure & Algorithms**
 
 - 💬  Ask me about **Front-End dev & UI**
 
 - 📫  Don't Hesitate to reach me **adhamhaithameid@gmail.com**
 
-- 🏫  I’m currently enrolled in **<abbr title="Egypt Japan University of Science and Technologfy">EJUST</abbr>**
+- 🏫  I’m currently enrolled in **<abbr alt="Egypt Japan University of Science and Technology" title="Egypt Japan University of Science and Technology">EJUST</abbr>**
 
-- ⚡  Fun fact **Coffee** is practically a compiler beverage.
+- ⚡  Fun fact **Coffee ☕️** is practically a compiler beverage.
   
 - 🆕  Latest Project: [Airpods Max](https://github.com/adhamhaithameid/airpods-max)
   
@@ -28,6 +38,7 @@
  
   
 
+<!--- Social Media Links --->
 <h3 align="left">
   Connect with me:
 </h3>
@@ -42,11 +53,14 @@
 <!--- <a href="https://www.leetcode.com/adhamhaithameid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adhamhaithameid" height="30" width="40" /></a> --->
 </p>
 
+
+
+<!--- Languages and Tools --->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <!--- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> --->
    <!--- <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> --->
-   <!--- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> --->
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
    <!--- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> --->
    <!--- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> --->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -61,6 +75,12 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 </p>
 
+
+
+<!--- Stats --->
+
+<!--- Top Languages --->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhamhaithameid&show_icons=true&locale=en&layout=compact" alt="adhamhaithameid" /></p>
 
+<!--- Profile Stats --->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adhamhaithameid&show_icons=true&locale=en" alt="adhamhaithameid" /></p>
