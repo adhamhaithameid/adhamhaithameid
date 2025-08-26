@@ -32,7 +32,7 @@
 
 - ⚡  Fun fact **Coffee ☕️** is practically a compiler beverage.
   
-- 🆕  Latest Project: [Airpods Max](https://github.com/adhamhaithameid/airpods-max)
+- 🆕  Latest Project: [Arduino Console](https://github.com/adhamhaithameid/Arduino-Console)
   
 - 📄  Know about my experiences [Through My Resume](https://drive.google.com/file/d/1Dl5erZBc2yLMCbR76Iubh0_9cXYkcMeS/view?usp=drive_link)
  
