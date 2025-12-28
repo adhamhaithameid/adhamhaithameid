@@ -72,7 +72,7 @@
 
 <!--- Stats --->
 <!--- Profile Stats --->
-
+<!---
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=adhamhaithameid&show_icons=true&theme=tokyonight" 
@@ -84,10 +84,10 @@
       src="https://github-readme-stats.vercel.app/api?username=adhamhaithameid&show_icons=true" 
       alt="GitHub Stats" />
   </picture>
-
+--->
 
 <!--- Top Languages --->
-
+<!---
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=adhamhaithameid&layout=compact&theme=tokyonight" 
@@ -99,4 +99,4 @@
       src="https://github-readme-stats.vercel.app/api/top-langs?username=adhamhaithameid&layout=compact" 
       alt="Top Languages" />
   </picture>
-
+--->
