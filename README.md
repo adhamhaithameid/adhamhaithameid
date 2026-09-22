@@ -85,7 +85,7 @@
       alt="GitHub Stats" />
   </picture>
 --->
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=adhamhaithameid&theme=youtube-dark&border_radius=20)](https://git.io/streak-stats)
 <!--- Top Languages --->
 <!---
   <picture>
